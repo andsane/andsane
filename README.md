@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andsane
+- 👋 Hi, I’m AndressaF.
 - 👀 I’m interested in learning to program
 - 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on pthon projects
